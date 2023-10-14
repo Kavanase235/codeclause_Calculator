@@ -1,2 +1,2 @@
 # codeclause_task2.
-#A simple calculator
+A simple calculator
